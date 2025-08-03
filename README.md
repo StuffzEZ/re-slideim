@@ -80,15 +80,17 @@ data and displays it along with sunrise and sunset times.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/PersistentCloud/immich-slideshow.git
-   cd immich-slideshow
+   git clone https://github.com/StuffzEZ/re-slideim.git
+   cd re-slideim
    ```
 
 2. **Install dependencies**
    Go into the folder for slideshow-frontend and proxy-backend and execute following command there.
 
    ```bash
+   cd proxy-backend
    npm install
+   cd ..
    ```
 
 3. **Configuration**
