@@ -1,6 +1,6 @@
-# ⚠️ Project Archived
+# ⚠️ Project Info
 
-**This project is no longer actively maintained.**  
+**This project is not maintained much.**  
 For a more up-to-date and actively supported alternative, I recommend checking out [Immich Kiosk](https://github.com/damongolding/immich-kiosk), which offers similar/better functionality and ongoing improvements.
 
 ---
